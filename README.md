@@ -13,7 +13,7 @@ vless 性能更加优秀，占用资源更少。
 
 本镜像不会因为大量占用资源而被封号。注册好Heroku账号并登录后,点击下面按钮便可部署.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Lbingyi/Heroku-Xray)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/yuguangyuan2012/newworld)
 
 ### 路径
 
@@ -25,7 +25,7 @@ vless 性能更加优秀，占用资源更少。
 
 ### UUID
 
-`UUID` 默认为 `24b4b1e1-7a89-45f6-858c-242cf53b5bdb` 可自行设置。
+`UUID` 默认为 `9fa20517-da4d-dc3f-ac91-8d8942a99cd0` 可自行设置。
 
 **XRay 将在部署时会自动实配安装`最新版本`。**
 
